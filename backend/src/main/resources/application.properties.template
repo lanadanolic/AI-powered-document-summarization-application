@@ -1,0 +1,15 @@
+# Database Configuration
+spring.datasource.url=jdbc:postgresql://localhost:5432/document_summarizer
+spring.datasource.username=postgres
+spring.datasource.password=your_password
+
+# JPA Configuration
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
+
+# File Upload Configuration
+spring.servlet.multipart.max-file-size=10MB
+spring.servlet.multipart.max-request-size=10MB
+
+# OpenRouter API Configuration
+openrouter.api.key=your_openrouter_api_key 

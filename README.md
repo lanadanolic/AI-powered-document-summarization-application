@@ -172,6 +172,13 @@ The frontend will start on http://localhost:3000
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
+![Screenshot from 2025-04-24 15-09-38](https://github.com/user-attachments/assets/0dd2bbc3-2866-4647-9e60-296ac206d6da)
 
-This project is licensed under the MIT License - see the LICENSE file for details # AI-powered-document-summarization-application
+![Screenshot from 2025-04-24 15-11-55](https://github.com/user-attachments/assets/2c99aa57-b06c-4b07-a2e9-c416dfe4d789)
+
+![Screenshot from 2025-04-24 15-12-48](https://github.com/user-attachments/assets/19ceeea9-06e3-4107-9b05-eebfa624c600)
+
+![Screenshot from 2025-04-24 15-13-27](https://github.com/user-attachments/assets/7c337a8d-3a28-4c57-a718-7f553ec0ac65)
+
+
+

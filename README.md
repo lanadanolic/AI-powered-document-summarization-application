@@ -174,4 +174,4 @@ The frontend will start on http://localhost:3000
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details 
+This project is licensed under the MIT License - see the LICENSE file for details # AI-powered-document-summarization-application
